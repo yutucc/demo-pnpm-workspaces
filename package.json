@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pnpm -r --filter=./packages/web run start"
+    "start": "pnpm -r --filter=./packages/web run start",
+    "start:exam": "pnpm -r --filter=./apps/exam run start"
   },
   "engines": {
     "node": ">=14",

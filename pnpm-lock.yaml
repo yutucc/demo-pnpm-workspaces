@@ -2,6 +2,14 @@ lockfileVersion: 5.4
 
 importers:
 
+  apps/exam:
+    specifiers:
+      '@pn/components': workspace:^1.0.0
+      '@pn/models': workspace:^1.0.0
+    dependencies:
+      '@pn/components': link:../../packages/components
+      '@pn/models': link:../../packages/models
+
   packages/web:
     specifiers:
       '@pn/components': workspace:^1.0.0
