@@ -5,5 +5,5 @@
  * @Description: 
  */
 export default () => {
-  console.log('packages/components');
+  console.log('打印：packages/components');
 }

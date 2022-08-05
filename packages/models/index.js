@@ -5,5 +5,5 @@
  * @Description: 
  */
 export default () => {
-  console.log('packages/models');
+  console.log('打印：packages/models');
 }
