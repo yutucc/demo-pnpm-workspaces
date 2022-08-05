@@ -1,4 +1,4 @@
-# 测试 pnpm workspaces 的用法
+# Demo 演示 pnpm workspaces 的用法
 
 
 ## 环境
