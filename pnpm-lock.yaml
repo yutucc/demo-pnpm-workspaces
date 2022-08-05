@@ -1,0 +1,11 @@
+lockfileVersion: 5.4
+
+importers:
+
+  packages/web:
+    specifiers:
+      '@pn/components': workspace:^1.0.0
+      '@pn/models': workspace:^1.0.0
+    dependencies:
+      '@pn/components': link:../components
+      '@pn/models': link:../models

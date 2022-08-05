@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@pn/components": "workspace:^1.0.0",
+    "@pn/models": "workspace:^1.0.0"
+  }
 }
